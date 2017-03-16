@@ -1,0 +1,6 @@
+/home/vladi/Documents/NameGenerator/NameGenerator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vladi/Documents/NameGenerator/NameGenerator/obj/x86/Debug/NameGenerator.gtk-gui.gui.stetic
+/home/vladi/Documents/NameGenerator/NameGenerator/bin/Debug/NameGenerator.exe.mdb
+/home/vladi/Documents/NameGenerator/NameGenerator/bin/Debug/NameGenerator.exe
+/home/vladi/Documents/NameGenerator/NameGenerator/obj/x86/Debug/NameGenerator.exe
+/home/vladi/Documents/NameGenerator/NameGenerator/obj/x86/Debug/NameGenerator.exe.mdb
